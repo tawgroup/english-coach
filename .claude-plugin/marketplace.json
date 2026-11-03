@@ -1,0 +1,12 @@
+{
+  "name": "english-coach",
+  "owner": { "name": "tawgroup" },
+  "description": "English coach mod for Claude Code",
+  "plugins": [
+    {
+      "name": "english-coach",
+      "source": "./",
+      "description": "Corrects every English prompt you send, tallies recurring mistakes across sessions, reads fixes aloud. Type /english-coach"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{ "name": "english-coach", "version": "0.1.0", "description": "Live English coach beside the chat: corrects every English prompt you send, tallies your recurring mistakes across sessions, reads fixes aloud. Type /english-coach", "types": "./types/index.d.ts", "license": "MIT" }
